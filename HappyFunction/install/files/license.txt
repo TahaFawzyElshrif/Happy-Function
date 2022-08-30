@@ -1,0 +1,12 @@
+hello
+Happy Function v1.0.0.0
+this is the first version for windows,soon for android,IOS
+it nearly contain most ways of derivative and steps 
+but you may find some issus as it's the first version 
+
+
+
+
+
+
+please read readme.md at my github from where you installed it
