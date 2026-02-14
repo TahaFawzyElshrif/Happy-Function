@@ -25,20 +25,7 @@ The project is currently built for **Windows (CLI)**, with plans to add a **Flut
 * Step tracking during differentiation
 * Support for nested and complex expressions
 
----
 
-## Project Structure
-
-### Installation
-
-* [Install packages](https://github.com/TahaFawzyElshrif/Happy-Function/tree/main/HappyFunction/install/install)
-* [Install files](https://github.com/TahaFawzyElshrif/Happy-Function/tree/main/HappyFunction/install/files)
-
-### Source Code
-
-* [Source folder](https://github.com/TahaFawzyElshrif/Happy-Function/tree/main/HappyFunction/source)
-
----
 
 ## Algorithm Design
 
